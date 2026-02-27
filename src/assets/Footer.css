@@ -1,0 +1,7 @@
+.footer-section {
+  background: linear-gradient(to right, #141e30, #243b55);
+}
+.footer-section .container {
+  color: #fff;
+  padding: 5px;
+}
